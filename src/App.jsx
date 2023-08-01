@@ -1,5 +1,7 @@
+import './styles/estilosGlobais.scss'
+
 export default function App() {
   return (
-    <h1>Oi mãe!</h1>
+    <Formulario/>
   );
 }
